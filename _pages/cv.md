@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: resume
+permalink: /resume/
+title: resume/cv
+description: 
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+nav_order: 2
 ---
