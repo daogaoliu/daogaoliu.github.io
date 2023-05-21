@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: publications by categories in reversed chronological order. The authors of most papers are ordered alphabetically.
+title: Publications
+description: Publications by categories in reversed chronological order. The authors of most papers are ordered alphabetically.
 years: [2023,2022,2021,2020,2019]
 manuyears: [2023,2021]
 nav: true
