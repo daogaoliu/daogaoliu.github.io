@@ -17,7 +17,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a forth-year PhD student in Computer Science at the University of Washington, advised by Prof. [Yin Tat Lee](https://yintat.com/).
+I am a fourth-year PhD student in Computer Science at the University of Washington, advised by Prof. [Yin Tat Lee](https://yintat.com/).
 I recieved B.S in Mathematics and Physics from Tsinghua University in 2020.
 
 Currently, I am primarily focused on research in the field of theoretical computer science, with a particular emphasis on Differential Privacy, Stochastic Optimization, and Algorithm Design.
