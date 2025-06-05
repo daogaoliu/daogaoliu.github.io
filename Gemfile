@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'uri', '~> 1.0.3'  # Add this line to fix the version conflict
 end
 group :other_plugins do
     gem 'httparty'
